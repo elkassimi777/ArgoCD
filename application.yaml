@@ -15,7 +15,7 @@ spec:
     namspace: myapp
   
   syncPolicy:
-    syncOption:
+    syncOptions:
     - CreateNamespace=true
 
     automated: 
